@@ -1,0 +1,22 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/sh3eb-elf-gcc",
+      "-Os",
+      "-Wall",
+      "-iquote",
+      "/home/adame/Documents/BACG50/include",
+      "-I/home/adame/Documents/BACG50/build",
+      "-I/home/adame/Documents/libfxcg//include",
+      "-ffunction-sections",
+      "-fdata-sections",
+      "-c",
+      "-o",
+      "fastlz.o",
+      "/home/adame/Documents/BACG50/src/fastlz.c"
+    ],
+    "directory": "/home/adame/Documents/BACG50",
+    "file": "/home/adame/Documents/BACG50/src/fastlz.c",
+    "output": "/home/adame/Documents/BACG50/fastlz.o"
+  }
+]
